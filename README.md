@@ -1,5 +1,8 @@
+
 # VMIPUC LMS Android App
-An APK file with the website embed.
+LMS app for android.
+
+![VMPUC Logo](https://cdn.discordapp.com/attachments/952892338060005437/983799602631307325/logo_1.png)
 
 ## Why does this repo exist?
 There was no mobile app for a Learning Management System my school used, and our notes and other documents were shared there, since not everyone had a PC and website viewing is hard on mobile phones, I decided to use [this](https://www.webintoapp.com/app-maker) tool. You can view PDFs and other notifications, etc easily with the help of this mobile app.
